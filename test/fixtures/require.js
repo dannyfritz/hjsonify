@@ -1,0 +1,1 @@
+test(require('./sample.hjson'));
