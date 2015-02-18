@@ -1,3 +1,6 @@
+![NPM version shield](https://img.shields.io/npm/v/hjsonify.svg)
+![License shield](https://img.shields.io/npm/l/hjsonify.svg)
+
 # hjsonify
 hjsonify is a browserify transform to require [Human JSON (Hjson)](http://hjson.org/) files.
 
