@@ -1,6 +1,6 @@
 {
   "name": "hjsonify",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "A Browserify transform for hjson files.",
   "main": "lib/hjsonify.js",
   "dependencies": {
