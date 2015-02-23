@@ -40,9 +40,8 @@ config.hjson:
 
 app.js:
 ```js
-var config = require('config.hjson');
+var config = require('./config.hjson');
 console.log(config.port);
-// => 1000
 ```
 
 ```sh
