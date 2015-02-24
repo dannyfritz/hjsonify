@@ -14,7 +14,7 @@ $ npm install hjsonify
 
 ## Usage
 
-Programatic use with Browserify:
+Programmatic use with Browserify:
 ```js
 var b = require('browserify')(),
     fs = require('fs'),
